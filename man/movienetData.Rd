@@ -38,9 +38,6 @@ analysis approach to examining gendered character positions in popular film
 narratives." Doctoral thesis, University of Manchester, UK.
 }
 
-\references{
-
-}
 \author{
 Pete Jones
 }

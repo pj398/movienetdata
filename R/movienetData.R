@@ -32,8 +32,6 @@
 #'
 #' @author Pete Jones
 #'
-#' @references
-#'
 #' @docType package
 #' @name movienetData
 NULL
