@@ -1,7 +1,7 @@
 Package: movienetData
 Type: Package
 Title: Character Interaction Data for Popular Films
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: person("Pete", "Jones", email = "petejones398@gmail.com", 
     role=c("aut", "cre"))
 Description: A data package containing character interactions from 30 popular 
