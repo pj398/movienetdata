@@ -1,0 +1,39 @@
+#' movienetData: A data package for character interactions in popular films.
+#'
+#' @description This package contains character interaction data for 30 popular
+#'   films, detailed below. The package is intended as an accompaniment to the
+#'   \code{movienet} package (under development), but the data can be used for
+#'   any purpose.
+#'
+#' @details The films for which data is available in this package include:
+#'   \itemize{\item the first 18 films of the Marvel Cinematic Universe (from
+#'   \emph{Iron Man} (2008) to \emph{Black Panther} (2018)); \item the 4 films
+#'   in \emph{The Hunger Games} series (2012-2015); \item the 3 \emph{Tomb
+#'   Raider} films, including the two \emph{Lara Croft: Tomb Raider} films
+#'   (2001-2003) as well as the 2018 reboot; \item 5 miscellaneous other films
+#'   (\emph{Frozen} (2013), \emph{The Breakfast Club} (1985), \emph{Star Wars:
+#'   The Force Awakens} (2015), \emph{Alien} (1979), and \emph{Wonder Woman}
+#'   (2017).}
+#'
+#'   For full details of the films included in the package, run \preformatted{
+#'   data(package = "movienetData")} or consult the \code{?help} page for each
+#'   dataset.
+#'
+#'   Individual films can be loaded into the workspace using the command:
+#'   \preformatted{  data(example_01, package = "movienetData")}
+#'
+#' @section Citation:
+#' If you find a use for the data, please either cite the package directly or
+#' the author's associated work, e.g.:
+#'
+#' Jones, Pete. 2020. "A social network
+#' analysis approach to examining gendered character positions in popular film
+#' narratives." Doctoral thesis, University of Manchester, UK.
+#'
+#' @author Pete Jones
+#'
+#' @references
+#'
+#' @docType package
+#' @name movienetData
+NULL
