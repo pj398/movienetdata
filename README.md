@@ -8,7 +8,7 @@
 [![CRAN
 status](https://www.r-pkg.org/badges/version/movienetData)](https://cran.r-project.org/package=movienetData)
 [![repo
-size](https://img.shields.io/github/repo-size/pj398/movienetData)](https://github.com/pj298/movienetData)
+size](https://img.shields.io/github/repo-size/pj398/movienetData)](https://github.com/pj398/movienetData)
 <!-- badges: end -->
 
 This is a data package containing character interaction data for a
@@ -89,3 +89,10 @@ Feel free to use the data for whatever you want. To cite the data,
 either cite the package directly (e.g. via `citation(package =
 "movienetData")`) or the relevant publication from my associated
 research.
+
+## References
+
+Jones, Pete. 2020. “Diana in the World of Men: a character network
+approach to analysing gendered vocal representation in *Wonder Woman*.”
+*Feminist Media Studies* 20 (1): 18-34. DOI:
+10.1080/14680777.2018.1510846.

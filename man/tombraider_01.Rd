@@ -3,7 +3,7 @@
 \docType{data}
 \name{tombraider_01}
 \alias{tombraider_01}
-\title{\emph{Lara Croft: Tomb Raider} (2001).}
+\title{Lara Croft: Tomb Raider (2001).}
 \format{A list with three elements: \enumerate{ \item The event list (a
   matrix). Each row contains information on a line of dialogue, with columns
   corresponding to \code{eventID}, \code{sceneID}, \code{speakerID}, and

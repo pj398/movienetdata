@@ -3,7 +3,7 @@
 \docType{data}
 \name{alien_01}
 \alias{alien_01}
-\title{\emph{Alien} (1979).}
+\title{Alien (1979).}
 \format{A list with three elements: \enumerate{ \item The event list (a
   matrix). Each row contains information on a line of dialogue, with columns
   corresponding to \code{eventID}, \code{sceneID}, \code{speakerID}, and

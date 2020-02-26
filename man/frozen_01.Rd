@@ -3,7 +3,7 @@
 \docType{data}
 \name{frozen_01}
 \alias{frozen_01}
-\title{\emph{Frozen} (2013).}
+\title{Frozen (2013).}
 \format{A list with three elements: \enumerate{ \item The event list (a
   matrix). Each row contains information on a line of dialogue, with columns
   corresponding to \code{eventID}, \code{sceneID}, \code{speakerID}, and

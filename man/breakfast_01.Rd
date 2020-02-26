@@ -3,7 +3,7 @@
 \docType{data}
 \name{breakfast_01}
 \alias{breakfast_01}
-\title{\emph{The Breakfast Club} (1985).}
+\title{The Breakfast Club (1985).}
 \format{A list with three elements: \enumerate{ \item The event list (a
   matrix). Each row contains information on a line of dialogue, with columns
   corresponding to \code{eventID}, \code{sceneID}, \code{speakerID}, and

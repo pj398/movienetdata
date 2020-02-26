@@ -3,7 +3,7 @@
 \docType{data}
 \name{marvel_13}
 \alias{marvel_13}
-\title{\emph{Captain America: Civil War} (2016).}
+\title{Captain America: Civil War (2016).}
 \format{A list with three elements: \enumerate{ \item The event list (a
   matrix). Each row contains information on a line of dialogue, with columns
   corresponding to \code{eventID}, \code{sceneID}, \code{speakerID}, and

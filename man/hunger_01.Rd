@@ -3,7 +3,7 @@
 \docType{data}
 \name{hunger_01}
 \alias{hunger_01}
-\title{\emph{The Hunger Games} (2012).}
+\title{The Hunger Games (2012).}
 \format{A list with three elements: \enumerate{ \item The event list (a
   matrix). Each row contains information on a line of dialogue, with columns
   corresponding to \code{eventID}, \code{sceneID}, \code{speakerID}, and

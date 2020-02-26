@@ -3,7 +3,7 @@
 \docType{data}
 \name{marvel_02}
 \alias{marvel_02}
-\title{\emph{The Incredible Hulk} (2008).}
+\title{The Incredible Hulk (2008).}
 \format{A list with three elements: \enumerate{ \item The event list (a
   matrix). Each row contains information on a line of dialogue, with columns
   corresponding to \code{eventID}, \code{sceneID}, \code{speakerID}, and

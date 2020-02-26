@@ -3,7 +3,7 @@
 \docType{data}
 \name{marvel_16}
 \alias{marvel_16}
-\title{\emph{Spider-Man: Homecoming} (2017).}
+\title{Spider-Man: Homecoming (2017).}
 \format{A list with three elements: \enumerate{ \item The event list (a
   matrix). Each row contains information on a line of dialogue, with columns
   corresponding to \code{eventID}, \code{sceneID}, \code{speakerID}, and

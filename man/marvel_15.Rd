@@ -3,7 +3,7 @@
 \docType{data}
 \name{marvel_15}
 \alias{marvel_15}
-\title{\emph{Guardians of the Galaxy: Vol. 2} (2017).}
+\title{Guardians of the Galaxy: Vol. 2 (2017).}
 \format{A list with three elements: \enumerate{ \item The event list (a
   matrix). Each row contains information on a line of dialogue, with columns
   corresponding to \code{eventID}, \code{sceneID}, \code{speakerID}, and

@@ -3,7 +3,7 @@
 \docType{data}
 \name{starwars_01}
 \alias{starwars_01}
-\title{\emph{Star Wars: The Force Awakens} (2015).}
+\title{Star Wars: The Force Awakens (2015).}
 \format{A list with three elements: \enumerate{ \item The event list (a
   matrix). Each row contains information on a line of dialogue, with columns
   corresponding to \code{eventID}, \code{sceneID}, \code{speakerID}, and

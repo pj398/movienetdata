@@ -3,7 +3,7 @@
 \docType{data}
 \name{marvel_18}
 \alias{marvel_18}
-\title{\emph{Black Panther} (2018).}
+\title{Black Panther (2018).}
 \format{A list with three elements: \enumerate{ \item The event list (a
   matrix). Each row contains information on a line of dialogue, with columns
   corresponding to \code{eventID}, \code{sceneID}, \code{speakerID}, and
