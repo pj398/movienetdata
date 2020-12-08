@@ -1,20 +1,20 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# movienetData <img src="man/figures/README-logo.png" align="right" height="120"/>
+# movienetdata <img src="man/figures/README-logo.png" align="right" height="120"/>
 
 <!-- badges: start -->
 
 [![CRAN
-status](https://www.r-pkg.org/badges/version/movienetData)](https://cran.r-project.org/package=movienetData)
+status](https://www.r-pkg.org/badges/version/movienetdata)](https://cran.r-project.org/package=movienetData)
 [![repo
-size](https://img.shields.io/github/repo-size/pj398/movienetData)](https://github.com/pj398/movienetData)
+size](https://img.shields.io/github/repo-size/pj398/movienetdata)](https://github.com/pj398/movienetData)
 <!-- badges: end -->
 
 This is a data package containing character interaction data for a
-number of popular films. The package is intended as an accompaniment to
-the `movienet` package (under development), but the data can be used for
-any purpose.
+number of popular films. The package is designed to play well with the
+`charinet` package for character interaction network analysis (under
+development), but the data can be used for any purpose.
 
 The films currently contained in the package are:
 
@@ -53,7 +53,7 @@ You can install the development version from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("pj398/movienetData")
+devtools::install_github("pj398/movienetdata")
 ```
 
 ## Example
@@ -61,8 +61,11 @@ devtools::install_github("pj398/movienetData")
 Load data:
 
 ``` r
-library(movienetData)
-data("marvel_01", package = "movienetData")
+library(movienetdata)
+data("marvel_01", package = "movienetdata")
+
+# or assign the data
+iron_man <- movienetdata::marvel_01
 ```
 
 Access specific elements by name or by indexing the list:
@@ -80,14 +83,14 @@ marvel_01[[2]]
 Browse the full list of movies by running:
 
 ``` r
-data(package = "movienetData")
+data(package = "movienetdata")
 ```
 
 ## Usage
 
 Feel free to use the data for whatever you want. To cite the data,
 either cite the package directly (e.g. via `citation(package =
-"movienetData")`) or the relevant publication from my associated
+"movienetdata")`) or the relevant publication from my associated
 research.
 
 ## References

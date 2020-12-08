@@ -1,9 +1,9 @@
-#' movienetData: A data package for character interactions in popular films.
+#' movienetdata: A data package for character interactions in popular films.
 #'
 #' @description This package contains character interaction data for 30 popular
-#'   films, detailed below. The package is intended as an accompaniment to the
-#'   \code{movienet} package (under development), but the data can be used for
-#'   any purpose.
+#'   films, detailed below. The package is designed to play well with the
+#'   \code{charinet} package for character interaction network analysis (under
+#'   development), but the data can be used for any purpose.
 #'
 #' @details The films for which data is available in this package include:
 #'   \itemize{\item the first 18 films of the Marvel Cinematic Universe (from
@@ -16,22 +16,24 @@
 #'   (2017).}
 #'
 #'   For full details of the films included in the package, run \preformatted{
-#'   data(package = "movienetData")} or consult the \code{?help} page for each
+#'   data(package = "movienetdata")} or consult the \code{?help} page for each
 #'   dataset.
 #'
-#'   Individual films can be loaded into the workspace using the command:
-#'   \preformatted{  data(example_01, package = "movienetData")}
+#'   Individual films can be loaded into the workspace like so:
+#'   \preformatted{  data(marvel_01, package = "movienetdata")}
 #'
-#' @section Citation:
-#' If you find a use for the data, please either cite the package directly or
-#' the author's associated work, e.g.:
+#'   Or by assigning them directly:
+#'   \preformatted{  iron_man <- movienetdata::marvel_01}
 #'
-#' Jones, Pete. 2020. "A social network
-#' analysis approach to examining gendered character positions in popular film
-#' narratives." Doctoral thesis, University of Manchester, UK.
+#' @section Citation: If you find a use for the data, please either cite the
+#'   package directly or the author's associated work, e.g.:
+#'
+#'   Jones, Pete. 2020. "A social network analysis approach to examining
+#'   gendered character positions in popular film narratives." Doctoral thesis,
+#'   University of Manchester, UK.
 #'
 #' @author Pete Jones
 #'
 #' @docType package
-#' @name movienetData
+#' @name movienetdata
 NULL
