@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![Travis build
+status](https://travis-ci.org/pj398/movienetdata.svg?branch=master)](https://travis-ci.org/pj398/movienetdata)
 [![CRAN
 status](https://www.r-pkg.org/badges/version/movienetdata)](https://cran.r-project.org/package=movienetData)
 [![repo

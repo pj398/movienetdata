@@ -15,6 +15,7 @@ knitr::opts_chunk$set(
 # movienetdata <img src="man/figures/README-logo.png" align="right" height="120"/>
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.org/pj398/movienetdata.svg?branch=master)](https://travis-ci.org/pj398/movienetdata)
 [![CRAN status](https://www.r-pkg.org/badges/version/movienetdata)](https://cran.r-project.org/package=movienetData)
 [![repo size](https://img.shields.io/github/repo-size/pj398/movienetdata)](https://github.com/pj398/movienetData)
 <!-- badges: end -->
