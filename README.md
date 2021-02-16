@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# movienetdata <img src="man/figures/README-logo.png" align="right" height="120"/>
+# movienetdata <img src="man/figures/README-logo.png" align="right" height="140"/>
 
 <!-- badges: start -->
 
@@ -20,12 +20,12 @@ development), but the data can be used for any purpose.
 
 The films currently contained in the package are:
 
-  - the first 18 films of the Marvel Cinematic Universe (from *Iron Man*
-    (2008) to *Black Panther* (2018));
-  - the 4 films in *The Hunger Games* series (2012-2015);
-  - the 3 *Tomb Raider* films, including the two *Lara Croft: Tomb
+-   the first 18 films of the Marvel Cinematic Universe (from *Iron
+    Man* (2008) to *Black Panther* (2018));
+-   the 4 films in *The Hunger Games* series (2012-2015);
+-   the 3 *Tomb Raider* films, including the two *Lara Croft: Tomb
     Raider* films (2001-2003) as well as the 2018 reboot;
-  - 5 miscellaneous other films (*Frozen* (2013), *The Breakfast Club*
+-   5 miscellaneous other films (*Frozen* (2013), *The Breakfast Club*
     (1985), *Star Wars: The Force Awakens* (2015), *Alien* (1979), and
     *Wonder Woman* (2017).
 
@@ -91,9 +91,9 @@ data(package = "movienetdata")
 ## Usage
 
 Feel free to use the data for whatever you want. To cite the data,
-either cite the package directly (e.g. via `citation(package =
-"movienetdata")`) or the relevant publication from my associated
-research.
+either cite the package directly (e.g. via
+`citation(package = "movienetdata")`) or the relevant publication from
+my associated research.
 
 ## References
 

@@ -12,7 +12,7 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 ```
-# movienetdata <img src="man/figures/README-logo.png" align="right" height="120"/>
+# movienetdata <img src="man/figures/README-logo.png" align="right" height="140"/>
 
 <!-- badges: start -->
 [![Travis build status](https://travis-ci.org/pj398/movienetdata.svg?branch=master)](https://travis-ci.org/pj398/movienetdata)
