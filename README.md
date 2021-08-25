@@ -64,22 +64,22 @@ Load data:
 
 ``` r
 library(movienetdata)
-data("marvel_01", package = "movienetdata")
+data("mcu01_ironman", package = "movienetdata")
 
 # or assign the data
-iron_man <- movienetdata::marvel_01
+iron_man <- movienetdata::mcu01_ironman
 ```
 
 Access specific elements by name or by indexing the list:
 
 ``` r
 # Get the nodes by name
-marvel_01$node_list
+mcu01_ironman$node_list
 ```
 
 ``` r
 # Get the nodes by indexing
-marvel_01[[2]]
+mcu01_ironman[[2]]
 ```
 
 Browse the full list of movies by running:
