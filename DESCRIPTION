@@ -1,7 +1,7 @@
 Package: movienetdata
 Type: Package
 Title: Character Interaction Data for Popular Films
-Version: 0.1.1.9001
+Version: 0.1.1.9002
 Authors@R: person("Pete", "Jones", email = "petejones398@gmail.com", 
     role=c("aut", "cre"))
 Description: A data package containing character interactions from 30 popular 
@@ -12,4 +12,4 @@ Depends: R (>= 3.6.0)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.0.2
+RoxygenNote: 7.1.1

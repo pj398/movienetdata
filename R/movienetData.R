@@ -20,10 +20,10 @@
 #'   dataset.
 #'
 #'   Individual films can be loaded into the workspace like so:
-#'   \preformatted{  data(marvel_01, package = "movienetdata")}
+#'   \preformatted{  data(mcu01_ironman, package = "movienetdata")}
 #'
 #'   Or by assigning them directly:
-#'   \preformatted{  iron_man <- movienetdata::marvel_01}
+#'   \preformatted{  iron_man <- movienetdata::mcu01_ironman}
 #'
 #' @section Citation: If you find a use for the data, please either cite the
 #'   package directly or the author's associated work, e.g.:

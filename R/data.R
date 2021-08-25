@@ -19,7 +19,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_01"
+"mcu01_ironman"
 
 #' The Incredible Hulk (2008).
 #'
@@ -38,7 +38,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_02"
+"mcu02_incrediblehulk"
 
 #' Iron Man 2 (2010).
 #'
@@ -57,7 +57,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_03"
+"mcu03_ironman2"
 
 #' Thor (2011).
 #'
@@ -76,7 +76,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_04"
+"mcu04_thor"
 
 #' Captain America: The First Avenger (2011).
 #'
@@ -96,7 +96,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_05"
+"mcu05_captainamerica"
 
 #' Marvel's The Avengers (2012).
 #'
@@ -115,7 +115,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_06"
+"mcu06_avengers"
 
 #' Iron Man 3 (2013).
 #'
@@ -134,7 +134,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_07"
+"mcu07_ironman3"
 
 #' Thor: The Dark World (2013).
 #'
@@ -153,7 +153,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_08"
+"mcu08_thor2"
 
 #' Captain America: The Winter Soldier (2014).
 #'
@@ -173,7 +173,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_09"
+"mcu09_captainamerica2"
 
 #' Guardians of the Galaxy (2014).
 #'
@@ -193,7 +193,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_10"
+"mcu10_gotg"
 
 #' Avengers: Age of Ultron (2015).
 #'
@@ -213,7 +213,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_11"
+"mcu11_ageofultron"
 
 #' Ant-Man (2015).
 #'
@@ -232,7 +232,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_12"
+"mcu12_antman"
 
 #' Captain America: Civil War (2016).
 #'
@@ -252,7 +252,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_13"
+"mcu13_captainamerica3"
 
 #' Doctor Strange (2016).
 #'
@@ -271,7 +271,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_14"
+"mcu14_doctorstrange"
 
 #' Guardians of the Galaxy: Vol. 2 (2017).
 #'
@@ -291,7 +291,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_15"
+"mcu15_gotg2"
 
 #' Spider-Man: Homecoming (2017).
 #'
@@ -311,7 +311,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_16"
+"mcu16_spiderman"
 
 #' Thor: Ragnarok (2017).
 #'
@@ -330,7 +330,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_17"
+"mcu17_thor3"
 
 #' Black Panther (2018).
 #'
@@ -349,7 +349,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"marvel_18"
+"mcu18_blackpanther"
 
 # ----------------------------------------------------------------------------#
 # The Hunger Games
@@ -372,7 +372,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"hunger_01"
+"thg01"
 
 #' The Hunger Games: Catching Fire (2013).
 #'
@@ -392,7 +392,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"hunger_02"
+"thg02"
 
 #' The Hunger Games: Mockingjay - Part 1 (2014).
 #'
@@ -412,7 +412,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"hunger_03"
+"thg03"
 
 #' The Hunger Games: Mockingjay - Part 2 (2015).
 #'
@@ -432,7 +432,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"hunger_04"
+"thg04"
 
 # ----------------------------------------------------------------------------#
 # Tomb Raider
@@ -456,7 +456,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"tombraider_01"
+"tr01_laracroft"
 
 #' Lara Croft: Tomb Raider - The Cradle of Life (2003).
 #'
@@ -476,7 +476,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"tombraider_02"
+"tr02_laracroft2"
 
 #' Tomb Raider (2018).
 #'
@@ -495,7 +495,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"tombraider_03"
+"tr03_tombraider"
 
 # ----------------------------------------------------------------------------#
 # Misc. films
@@ -518,7 +518,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"wonder_01"
+"ww01_wonderwoman"
 
 #' Star Wars: The Force Awakens (2015).
 #'
@@ -538,7 +538,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"starwars_01"
+"starwars_tfa"
 
 #' Frozen (2013).
 #'
@@ -557,7 +557,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"frozen_01"
+"frozen"
 
 #' The Breakfast Club (1985).
 #'
@@ -576,7 +576,7 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"breakfast_01"
+"thebreakfastclub"
 
 #' Alien (1979).
 #'
@@ -595,4 +595,4 @@
 #' @references Jones, Pete. 2020. "A social network analysis approach to
 #'   examining gendered character positions in popular film narratives."
 #'   Doctoral thesis, University of Manchester, UK.
-"alien_01"
+"alien01"
